@@ -24,7 +24,7 @@
 //
 //alert(message.length);
 
-var message = "Congrats. The new version comitted.";
+var message = "Congrats. Who's ready to win BPA?";
 alert(message);
 
 let message2 = message + ". Sorry. Just repeating myself.";
