@@ -16,10 +16,18 @@
 //
 //}
 
-var message = "\'Hello\', world";
+//var message = "\'Hello\', world";
+//alert(message);
+//
+//let message2 = message + 5;
+//alert(message2);
+//
+//alert(message.length);
+
+var message = "Congrats. The new version comitted.";
 alert(message);
 
-let message2 = message + 5;
+let message2 = message + ". Sorry. Just repeating myself.";
 alert(message2);
 
-alert(message.length);
+alert("FYI the last message is " + message2.length + " characters long.");
